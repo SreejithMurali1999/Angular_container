@@ -1,0 +1,15 @@
+<div>
+ <!-- {{title | uppercase}}  -->
+ <!-- {{today | date}} -->
+ <!-- {{today}} -->
+ <!-- {{today | date:'fullDate'}} -->
+ <!-- chaining pipe -->
+ <!-- {{today| date:'MMM'|uppercase}} -->
+{{user.id}}
+{{user.salary | currency:'INR'}}
+{{user.name | uppercase}}
+{{user.DOB}}
+<!-- custom pipe -->
+{{user.name | custompipe:user.name}}
+
+</div>

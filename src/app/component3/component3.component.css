@@ -1,0 +1,25 @@
+#c3 {
+    width: 450px;
+    height: 650px;
+    background-color: whitesmoke;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    
+}
+h1 {
+    color:orange;
+    padding-left: 50px;
+    margin-top: 300px;
+}
+
+h4 {
+    padding-left: 40px;
+    color: grey;
+}
+p {
+    padding-left: 50px;
+}
+
+button {
+    float: left;
+    margin-left: 50px;
+}
